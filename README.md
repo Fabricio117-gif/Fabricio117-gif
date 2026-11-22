@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Software Engineer com interesse em agentes de IA, automação e desenvolvimento de aplicações web.
+Software Engineer com interesse em agentes de IA, automação e desenvolvimento de aplicações.
 
 ## Tecnologias
 
