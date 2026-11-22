@@ -1,17 +1,17 @@
-# Olá, eu sou o Fabricio 👋
+# Hi, I'm Fabricio 👋
 
-## Sobre mim
+## About Me
 
-Software Engineer com interesse em agentes de IA, automação e desenvolvimento de aplicações.
+Software Engineer focused on AI agents, automation, and web application development.
 
-## Tecnologias
+## Technologies
 
-Python • Java • SQL • Power Platform • Desenvolvimento Web • Integrações • Agentes de IA
+Python • Java • SQL • Power Platform • Web Development • Integrations • AI Agents
 
-## Conecte-se comigo
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/fabricio-benedicto-06a587ba/)
 
-## Objetivo
+## Goal
 
-Criar projetos úteis, documentados e fáceis de executar, mostrando evolução técnica por meio de entregas consistentes.
+Build useful, well-documented applications that are easy to run and demonstrate consistent technical growth.
