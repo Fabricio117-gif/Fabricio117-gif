@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Fabricio 👋
 
-<!--
-**Fabricio117-gif/Fabricio117-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Software Engineer com interesse em agentes de IA, automação e desenvolvimento de aplicações web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Python, Java, SQL e Power Platform
+- - 🌐 Desenvolvimento Web e integrações
+  - - 🤖 Experiência com IA e agentes inteligentes
+    - - 🚀 Buscando evoluir com projetos práticos e código aberto
+     
+      - ## Conecte-se comigo
+     
+      - [LinkedIn](https://www.linkedin.com/in/fabricio-benedicto-06a587ba/)
+     
+      - ## Objetivo
+     
+      - Criar projetos úteis, documentados e fáceis de executar, mostrando evolução técnica por meio de entregas consistentes.
+      - 
